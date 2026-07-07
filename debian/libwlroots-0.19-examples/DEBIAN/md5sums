@@ -1,0 +1,12 @@
+10cd0b7832091ce41e299714c3ecfd20  usr/lib/wlroots-0.19/cairo-buffer
+4fcfe53a722928ccc6e6b926ce93715b  usr/lib/wlroots-0.19/embedded
+b73a9e68bf5d82714597076a228544d5  usr/lib/wlroots-0.19/output-layers
+1f2cab4e653beeaafaae845f94cd1a03  usr/lib/wlroots-0.19/output-layout
+2232cbc75ddbe966611dfc1fff26eb01  usr/lib/wlroots-0.19/pointer
+a7e9ba9c791aef36a21f897ee97379bf  usr/lib/wlroots-0.19/rotation
+fc3c0df3b9883aa82b1e19462a69a1dd  usr/lib/wlroots-0.19/scene-graph
+44990bf0de6da3956830429b6ac8956b  usr/lib/wlroots-0.19/simple
+530bcdee917d316b1af57a78029dfb3e  usr/lib/wlroots-0.19/tablet
+0790d90b1c6ac83ba71890d7992dbea8  usr/lib/wlroots-0.19/touch
+27c00448071e0319b1e3ba3af3b82cdb  usr/share/doc/libwlroots-0.19-examples/changelog.Debian.gz
+be3c56f9667edb7ff1a18f91e2e05d93  usr/share/doc/libwlroots-0.19-examples/copyright
