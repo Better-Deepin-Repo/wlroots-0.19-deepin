@@ -1,3 +1,0 @@
-shlibs:Depends=libc6 (>= 2.34), libcairo2 (>= 1.2.4), libegl1, libgles2, libwayland-client0 (>= 1.23), libwayland-egl1 (>= 1.23), libwayland-server0 (>= 1.23), libwlroots-0.19 (>= 0.19.0~), libxkbcommon0 (>= 0.5.0)
-misc:Depends=
-misc:Pre-Depends=

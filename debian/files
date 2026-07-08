@@ -1,6 +1,0 @@
-libwlroots-0.19-dbgsym_0.19.3-1_amd64.deb debug optional automatic=yes
-libwlroots-0.19-dev_0.19.3-1_amd64.deb libdevel optional
-libwlroots-0.19-examples-dbgsym_0.19.3-1_amd64.deb debug optional automatic=yes
-libwlroots-0.19-examples_0.19.3-1_amd64.deb libs optional
-libwlroots-0.19_0.19.3-1_amd64.deb libs optional
-wlroots_0.19.3-1_amd64.buildinfo libs optional
